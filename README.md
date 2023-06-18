@@ -7,3 +7,5 @@ These leaks have a pretty slim chance of working and may be detected or may cras
 
 ## New leaks!
 If you guys would like new leaks please favorite the repository and I'll be leaking more of my scripts such as Axiom as our likes and favorites go up.
+
+#### Videos showcasing these scripts are [here](https://www.youtube.com/@zyllus6837)
